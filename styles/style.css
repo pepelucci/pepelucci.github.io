@@ -1,0 +1,36 @@
+html {
+
+	font-size: 10px;
+	font-family: 'Poiret One', cursive;
+	background-color: #CCBBCC;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FF9500;
+	padding: 0 20px 0 20px;
+	border: 5px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 500px;
+}
+
+h1 {
+	
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #AAFFAA;
+	text-shadow: -13px -13px 2px black;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
